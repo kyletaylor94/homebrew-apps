@@ -1,6 +1,6 @@
 cask "coredatabrowser" do
-  version "1.0.1"
-  sha256 "f6a2faf625034487f1956dfdf8ccf33e6b8263e1400f8db53e0f3ac6fe38550b"
+  version "1.0.2"
+  sha256 "9bc09517f473d68933ac0ca7bb85ac1d43cb3c30e1a4a63a7c89f387608f4f3c"
 
   url "https://github.com/kyletaylor94/CoreDataBrowser/releases/download/v#{version}/CoreDataBrowser.zip"
   name "CoreDataBrowser"
